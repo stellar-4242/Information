@@ -22,6 +22,6 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://streamable.com/3bj5d3) and ![Image](https://i.imgur.com/eWlRTKv.png)
+[https://streamable.com/3bj5d3](https://streamable.com/3bj5d3) and ![Image](https://i.imgur.com/eWlRTKv.png)
 ```
 
