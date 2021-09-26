@@ -23,7 +23,7 @@
 **Bold** and _Italic_ and `Code` text
 
 ```
-![ddd][1][2]
+![ddd[1]][2]
 
 [1]:https://i.imgur.com/eWlRTKv.png
 
