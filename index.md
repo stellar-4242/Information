@@ -7,7 +7,7 @@
 
 ### Specifics
 
-  > With that being said, I'm primarily a security engineer. I have unique creations never seen before on roblox, example being a custom executor detection it's able to detect > popular exploits such as (Synapse X, ProtoSmasher, RCM, ScriptWareV2, Sentinel), my method doesn't involve the now public method using MemoryTags.  Another example being a custom interface injection detection, CIIJD for short. CIIJD is used to detect various instances a exploiter will instance on their client, although their have been previous methods many of them have been patched by the Roblox Studio client, CIIJD uses a completely unique method, created by me.
+  > With that being said, I'm primarily a security engineer. I have unique creations never seen before on roblox, example being a custom executor detection it's able to detect  popular exploits such as (Synapse X, ProtoSmasher, RCM, ScriptWareV2, Sentinel), my method doesn't involve the now public method using MemoryTags.  Another example being a custom interface injection detection, CIIJD for short. CIIJD is used to detect various instances a exploiter will instance on their client, although their have been previous methods many of them have been patched by the Roblox Studio client, CIIJD uses a completely unique method, created by me.
 
 ### Summary
 > In short I'm a experienced Lua developer who can script anything you can imagine. I'm also a H1 hacktivist with 1 vulnerability reported @ https://hackerone.com/roblox
