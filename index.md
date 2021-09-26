@@ -21,8 +21,7 @@
 2. List
 
 **Bold** and _Italic_ and `Code` text
-![Test](https://i.imgur.com/eWlRTKv.pn)
 
 ```
 
-[Test](https://streamable.com/3bj5d3) and ![Test](https://i.imgur.com/eWlRTKv.png)
+[Test](https://streamable.com/3bj5d3) and [Test](https://i.imgur.com/eWlRTKv.png)
