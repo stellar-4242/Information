@@ -24,4 +24,4 @@
 
 ```
 [img](https://i.imgur.com/eWlRTKv.png)
-[img](https://streamable.com/3bj5d3) and 
+![img](https://streamable.com/3bj5d3) 
