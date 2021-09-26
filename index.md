@@ -25,4 +25,4 @@
 
 ```
 
-[Test](https://streamable.com/3bj5d3) and ![Image](https://i.imgur.com/eWlRTKv.png)
+[Test](https://streamable.com/3bj5d3) and ![Test](https://i.imgur.com/eWlRTKv.png)
