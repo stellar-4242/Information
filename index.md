@@ -21,7 +21,8 @@
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+![GitHub Logo](https://i.imgur.com/eWlRTKv.pn)
+Format: ![Alt Text](url)
 [https://streamable.com/3bj5d3](https://streamable.com/3bj5d3) and ![Image](https://i.imgur.com/eWlRTKv.png)
 ```
 
