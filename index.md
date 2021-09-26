@@ -1,4 +1,4 @@
-## stellar#4242 on Discord
+# stellar#4242
 
 ## Introduction
 
