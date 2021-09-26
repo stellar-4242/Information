@@ -11,17 +11,43 @@
 
 ### Summary
 > In short I'm a experienced Lua developer who can script anything you can imagine. I'm also a H1 hacktivist with 1 vulnerability reported @ https://hackerone.com/roblox
+- [x] Experienced Developer
+- [x] Multiple Years of Experience 
 
+## Past Work - Click the images to view video examples
+
+### Custom Interface Injection Detection (CIIJD)
 
 [![IMG][1]][2]
 
+### Exploit Detection (OLD)
+[![VD][3]][4]
+
+### Behavior Tree | AI 
+[![dd][5]][6]
+
+### Armor System
+[![dsd][7]][8]
+
+
+## Conclusion - Click the images above to view video examples
+> If you have any creative ideas, feel free to message me. I can create anything you can imagine
 
 [1]:https://i.imgur.com/eWlRTKv.png
 
 [2]:https://streamable.com/3bj5d3
 
+[3]:https://i.imgur.com/yu2T3fk.png
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+[4]:https://streamable.com/kk5dj
+
+[5]:https://i.imgur.com/WBccCGt.png
+
+[6]:https://streamable.com/8hpu4k
+
+[7]:https://i.imgur.com/bBG936j.png
+
+[8]:https://streamable.com/in9dos
+
+
+
