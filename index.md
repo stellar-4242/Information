@@ -13,6 +13,14 @@
 
 [![IMG][1]][2]
 
+
 [1]:https://i.imgur.com/eWlRTKv.png
 
 [2]:https://streamable.com/3bj5d3
+
+
+First Header | Second Header
+------------ | -------------
+[![IMG][1]][2]
+ | Content from cell 2
+Content in the first column | Content in the second column
