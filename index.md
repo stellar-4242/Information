@@ -23,7 +23,8 @@
 **Bold** and _Italic_ and `Code` text
 
 ```
-[Image Of Me][1][2]
+![IMG][1][2]
+
 [1]:https://i.imgur.com/eWlRTKv.png
 
 [2]:(https://streamable.com/3bj5d3) 
