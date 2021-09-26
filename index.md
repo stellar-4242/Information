@@ -23,7 +23,7 @@
 **Bold** and _Italic_ and `Code` text
 
 ```
+![ImageText][1]
 [img](https://i.imgur.com/eWlRTKv.png)
-![Image of Yaktocat](https://streamable.com/3bj5d3)
-
-![img](https://streamable.com/3bj5d3) 
+[1]:https://i.imgur.com/eWlRTKv.png
+[img](https://streamable.com/3bj5d3) 
