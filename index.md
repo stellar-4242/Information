@@ -1,3 +1,5 @@
+## stellar#4242 on Discord
+
 ## Introduction
 
   >   I'm a Lua developer with over 5 years of experience, I host a discord server with over 9,000 members where I release free scripts annually. I'll leave examples of my work below.
