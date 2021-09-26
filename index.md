@@ -11,8 +11,8 @@
 
 ### Summary
 > In short I'm a experienced Lua developer who can script anything you can imagine. I'm also a H1 hacktivist with 1 vulnerability reported @ https://hackerone.com/roblox
-- [x] Experienced Developer
-- [x] Multiple Years of Experience 
+- [x]  Experienced Developer
+- [x]  Multiple Years of Experience 
 
 ## Past Work - Click the images to view video examples
 
