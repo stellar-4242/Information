@@ -11,18 +11,6 @@
 > In short I'm a experienced Lua developer who can script anything you can imagine. I'm also a H1 hacktivist with 1 vulnerability reported @ https://hackerone.com/roblox
 
 
-
-```markdown
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-```
 [![IMG][1]][2]
 
 [1]:https://i.imgur.com/eWlRTKv.png
